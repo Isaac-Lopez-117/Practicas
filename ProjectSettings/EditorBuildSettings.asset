@@ -8,6 +8,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/practica2.unity
     guid: 19edbf80502dc2d4e86a3d76d795f926
+  - enabled: 1
+    path: Assets/Scenes/practica3A.unity
+    guid: efdcc184cc676c544b5782a4cd355efd
+  - enabled: 1
+    path: Assets/Scenes/practica3B.unity
+    guid: 69a3ebbb7f6566e458104e67171310ac
+  - enabled: 1
+    path: Assets/Scenes/practica3C.unity
+    guid: 1fce41efe709cc346bd87d3a84789180
   - enabled: 0
     path: Assets/Samples/Google Cardboard XR Plugin for Unity/1.17.0/Hello Cardboard/Scenes/HelloCardboard.unity
     guid: 145a2a45d7bc746b19cb68410368bf96
